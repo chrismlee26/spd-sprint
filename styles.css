@@ -7,7 +7,7 @@ body {
 }
 
 .img-fluid {
-  filter: hue-rotate(0deg) saturate(110%) contrast(.80);
+  filter: hue-rotate(0deg) saturate(105%) contrast(.90);
 }
 
 #portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl {
@@ -30,7 +30,7 @@ body {
   text-align:4 center;
   opacity: 0;
   color: #fff;
-  background:#D5D5D5;
+  background:#1E1C1C;
   transition: opacity 0.25s ease;
   text-align: center;
 }
